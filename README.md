@@ -10,11 +10,7 @@ Portfolio Website
 - CSS3
 
 ## ✨ Features
-- Responsive Design
-- Modern UI
-- Hero Section
 - About Me
-- Skills Section
 - Projects Showcase
 - Contact Section
 
